@@ -49,7 +49,9 @@ let positives = [];
 let negatives = [];
 let zeroes = [];
 
-for (let i = 0; )
+for (let i = 0; i < 26; i++) {
+
+}
 
 
 
@@ -59,7 +61,7 @@ for (let i = 0; )
 
 
 
-  console.log('6. Looping through supplyChanges to populate arrays with positive, negative, and zero values:');
+console.log('6. Looping through supplyChanges to populate arrays with positive, negative, and zero values:');
 
 
 
