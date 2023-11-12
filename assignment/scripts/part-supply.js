@@ -44,7 +44,22 @@ console.log('5. Add the value 25 into supplyChanges.', supplyChanges);
 //      - If the value is a positive number, push it into the 'positives' array.
 //      - If the value is a negative number, push it into the 'negatives' array.
 //      - If the value is a zero, push it into the 'zeroes' array.
-console.log('6. Looping through supplyChanges to populate arrays with positive, negative, and zero values:');
+
+let positives = [];
+let negatives = [];
+let zeroes = [];
+
+for (let i = 0; )
+
+
+
+
+
+
+
+
+
+  console.log('6. Looping through supplyChanges to populate arrays with positive, negative, and zero values:');
 
 
 
